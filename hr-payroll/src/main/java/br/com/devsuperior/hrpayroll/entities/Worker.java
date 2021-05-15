@@ -15,4 +15,15 @@ public class Worker implements Serializable{
 	private String name;
 	private Double dailyIncome;
 	
+	public Long getId() {
+		return Id;
+	}
+	public String getName() {
+		return name;
+	}
+	public Double getDailyIncome() {
+		return dailyIncome;
+	}
+	
+	
 }
