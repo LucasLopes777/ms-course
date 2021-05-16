@@ -1,10 +1,10 @@
-package br.com.devsuperior;
+package br.com.devsuperior.hrconfigserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrWorkerApplicationTests {
+class HrConfigServerApplicationTests {
 
 	@Test
 	void contextLoads() {
